@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "bun index.js"
   },
-  "keywords": [],
+  "keywords": ["grammar", "grammar-checker", "english grammar"],
   "author": "jdkcoder",
   "license": "ISC",
   "description": "Fix & Improve Grammar by using ChatGPT then return result in Vietnamese & Markdown format (ChatGPT-4o)",
