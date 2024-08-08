@@ -1,0 +1,15 @@
+{
+  "name": "grammar-improver",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bun index.js"
+  },
+  "keywords": [],
+  "author": "jdkcoder",
+  "license": "ISC",
+  "description": "Fix & Improve Grammar by using ChatGPT then return result in Vietnamese & Markdown format (ChatGPT-4o)",
+  "dependencies": {
+    "openai": "latest"
+  }
+}
